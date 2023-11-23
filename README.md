@@ -1,13 +1,9 @@
-# COMP3601-Project: Audio Networking with KV260 FPGA 
+# Audio Networking with KV260 FPGA 
 
 **Description:**
 This project takes in data from an i2s microphone and streams it in real time over an ethernet connection via UDP. 
 
-**Team Members:**
-1. Muzhi Wang
-2. Shourya Saklecha
-3. James Milosavljevic
-4. Diresh Roshandeivendra
+**Designed with 3 other team members.**
 
 **Hardware:**
 1. Kria KV260 FPGA with ARM processor.
