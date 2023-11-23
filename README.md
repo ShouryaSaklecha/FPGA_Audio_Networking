@@ -6,6 +6,7 @@ This project takes in data from an i2s microphone and streams it in real time ov
 **Designed with 3 other team members.**
 
 **Diagram Flow:**
+
 <img width="608" alt="Screenshot 2023-11-23 at 23 39 12" src="https://github.com/ShouryaSaklecha/FPGA_Audio_Networking/assets/65444247/8562d9ac-7bc5-494d-bdee-b5e3c20da5d9">
 
 
